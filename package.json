@@ -1,0 +1,24 @@
+{
+  "name": "linear-programming",
+  "version": "1.0.0",
+  "description": "Projeto para modelagem e resolução de problemas de Otimização Linear.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DexxDevv/linear-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DexxDevv/linear-programming/issues"
+  },
+  "homepage": "https://github.com/DexxDevv/linear-programming#readme",
+  "dependencies": {
+    "highs": "^1.15.3"
+  }
+}
